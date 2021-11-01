@@ -11,9 +11,10 @@
 ![Shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![Rstudio](https://img.shields.io/badge/Code-R_studio-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 ![Matlab](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Mathworks&logoColor=white&color=2bbc8a)
 ![Mathematica](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=Wolfram+Mathematica&logoColor=white&color=2bbc8a)
-![Rstudio](https://img.shields.io/badge/Code-R_studio-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
+
 
 ![Anaconda](https://img.shields.io/badge/Tool-Conda-informational?style=flat&logo=Anaconda&logoColor=white&color=2ba9bc)
 ![SciPy](https://img.shields.io/badge/Tool-SciPy-informational?style=flat&logo=scipy&logoColor=white&color=2ba9bc)
