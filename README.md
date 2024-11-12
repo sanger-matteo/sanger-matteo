@@ -14,7 +14,6 @@
 ![Matlab](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Mathworks&logoColor=white&color=2bbc8a)
 ![Mathematica](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=Wolfram+Mathematica&logoColor=white&color=2bbc8a)
 
-![Atom](https://img.shields.io/badge/Tool-Atom-informational?style=flat&logo=Atom&logoColor=white&color=2a7ab8)
 ![Jupyter](https://img.shields.io/badge/Tool-Jupyter_Lab-informational?style=flat&logo=Jupyter&logoColor=white&color=2a7ab8)
 
 ![Autodesk](https://img.shields.io/badge/Design-Autodesk_Autocad-informational?style=flat&logo=Autodesk&logoColor=white&color=ba5c29)
