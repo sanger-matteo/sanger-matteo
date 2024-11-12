@@ -1,7 +1,7 @@
 # Sangermani Matteo
 ### Live Long and Prosper 🖖
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/sanger-matteo/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanger-matteo&layout=compact)](https://github.com/sanger-matteo/)
 
 
 ## 🔧 Technologies & Tools
