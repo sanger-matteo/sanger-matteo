@@ -20,10 +20,7 @@
 ![Jupyter](https://img.shields.io/badge/Tool-Jupyter_Lab-informational?style=flat&logo=Jupyter&logoColor=white&color=2a7ab8)
 ![Autodesk](https://img.shields.io/badge/Design-Autodesk_Autocad-informational?style=flat&logo=Autodesk&logoColor=white&color=ba5c29)
 ![Adobe Illustrator](https://img.shields.io/badge/Design-Adobe_Illustrator-informational?style=flat&logo=Adobe+Illustrator&logoColor=white&color=ba5c29)
-
-
+  
+  
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sanger-matteo&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/sanger-matteo)
-
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sanger-matteo&hide_progress=true&typescript&theme=algolia&show_icons=true)](https://github.com/sanger-matteo)
