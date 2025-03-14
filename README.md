@@ -12,9 +12,11 @@
 ![Rstudio](https://img.shields.io/badge/Code-R_studio-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 ![Matlab](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Mathworks&logoColor=white&color=2bbc8a)
 ![Mathematica](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=Wolfram+Mathematica&logoColor=white&color=2bbc8a)
-![Jupyter](https://img.shields.io/badge/Tool-Jupyter_Lab-informational?style=flat&logo=Jupyter&logoColor=white&color=2a7ab8)
 
+
+![Jupyter](https://img.shields.io/badge/Tool-Jupyter_Lab-informational?style=flat&logo=Jupyter&logoColor=white&color=2a7ab8)
 ![MicroFluidics Engineering](https://img.shields.io/badge/Tool-Jupyter_Lab-informational?style=flat&logo=Jupyter&logoColor=white&color=2a7ab8)
+
 
 ![Autodesk](https://img.shields.io/badge/Design-Autodesk_Autocad-informational?style=flat&logo=Autodesk&logoColor=white&color=ba5c29)
 ![Adobe Illustrator](https://img.shields.io/badge/Design-Adobe_Illustrator-informational?style=flat&logo=Adobe+Illustrator&logoColor=white&color=ba5c29)
