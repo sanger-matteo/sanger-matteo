@@ -2,6 +2,8 @@
 ### Live Long and Prosper 🖖
 
 
+  
+
 ## 🔧 Technologies & Tools
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
@@ -20,6 +22,12 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Design-Adobe_Illustrator-informational?style=flat&logo=Adobe+Illustrator&logoColor=white&color=ba5c29)
 
 
+  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanger-matteo&layout=compact)
+
+
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sanger-matteo)](https://github.com/anuraghazra/github-readme-stats)
 
 
