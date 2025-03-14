@@ -14,10 +14,6 @@
 ![Mathematica](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=Wolfram+Mathematica&logoColor=white&color=2bbc8a)
 
 
-![Jupyter](https://img.shields.io/badge/Tool-Jupyter_Lab-informational?style=flat&logo=Jupyter&logoColor=white&color=2a7ab8)
-
-![Autodesk](https://img.shields.io/badge/Design-Autodesk_Autocad-informational?style=flat&logo=Autodesk&logoColor=white&color=ba5c29)
-![Adobe Illustrator](https://img.shields.io/badge/Design-Adobe_Illustrator-informational?style=flat&logo=Adobe+Illustrator&logoColor=white&color=ba5c29)
 
 
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
@@ -25,48 +21,16 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
-
-
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 
 ![Matlab](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Mathworks&logoColor=white&color=2bbc8a)
 ![Mathematica](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=Wolfram+Mathematica&logoColor=white&color=2bbc8a)
+![Jupyter](https://img.shields.io/badge/Tool-Jupyter_Lab-informational?style=flat&logo=Jupyter&logoColor=white&color=2a7ab8)
+![Autodesk](https://img.shields.io/badge/Design-Autodesk_Autocad-informational?style=flat&logo=Autodesk&logoColor=white&color=ba5c29)
+![Adobe Illustrator](https://img.shields.io/badge/Design-Adobe_Illustrator-informational?style=flat&logo=Adobe+Illustrator&logoColor=white&color=ba5c29)
 
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 [![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff)](#)
 
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-<!--
-**sanger-matteo/sanger-matteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Autodesk](https://img.shields.io/static/v1?style=for-the-badge&message=Autodesk&color=0696D7&logo=Autodesk&logoColor=FFFFFF&label=)
-![Adobe Illustrator](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Illustrator&color=222222&logo=Adobe+Illustrator&logoColor=FF9A00&label=)
-![Adobe InDesign](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+InDesign&color=FF3366&logo=Adobe+InDesign&logoColor=FFFFFF&label=)
-![Atom](https://img.shields.io/static/v1?style=for-the-badge&message=Atom&color=66595C&logo=Atom&logoColor=FFFFFF&label=)
-
-
-![Anaconda](https://img.shields.io/badge/Tool-Conda-informational?style=flat&logo=Anaconda&logoColor=white&color=2ba9bc)
-![SciPy](https://img.shields.io/badge/Tool-SciPy-informational?style=flat&logo=scipy&logoColor=white&color=2ba9bc)
-![NumPy](https://img.shields.io/badge/Tool-NumPy-informational?style=flat&logo=Numpy&logoColor=white&color=2ba9bc)
-![Pandas](https://img.shields.io/badge/Tool-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2ba9bc)
-![scikit-learn](https://img.shields.io/badge/Tool-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2ba9bc)
-![Plotly](https://img.shields.io/badge/Tool-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=2ba9bc)
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
